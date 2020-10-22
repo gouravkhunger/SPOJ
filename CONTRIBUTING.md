@@ -9,6 +9,9 @@ Be sure that your solutions is working and accepted in the official
 providing a screenshot of the Accepted tag from SPOJ will boost the
 merging process.
 
+## File Location
+All solutions are present in the [Solutions Folder](https://github.com/GouravKhunger/SPOJ/blob/main/Solutions/).
+
 ## File Naming Conventions
 The name of the file must be the problem name as seen on the URL of the problem.
 For example, the problem at: https://www.spoj.com/problems/TEST/ will have the name
@@ -42,7 +45,7 @@ These 4 lines of comments are necessary:
     <file-creation-date>
     <author-and-github-link>
 
-For example(this example is from [this file](https://github.com/GouravKhunger/SPOJ/blob/main/TEST.cpp)):
+For example(this example is from [this file](https://github.com/GouravKhunger/SPOJ/blob/main/Solutions/TEST.cpp)):
 
     // https://www.spoj.com/problems/TEST/
     // TEST - Life, the Universe, and Everything
