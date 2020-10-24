@@ -1,7 +1,10 @@
-// https://www.spoj.com/problems/TMUL/
-// TMUL - Not So Fast Multiplication
-// File Creation Date: 24-Oct-2020
-// Author: WazeAzure(https://github.com/WazeAzure)
+'''
+https://www.spoj.com/problems/TMUL/
+TMUL - Not So Fast Multiplication
+File Creation Date: 24-Oct-2020
+Author: WazeAzure(https://github.com/WazeAzure)
+'''
+
 n = int(input())
 arr = [ ]
 
