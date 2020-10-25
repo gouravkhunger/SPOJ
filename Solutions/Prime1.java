@@ -1,3 +1,9 @@
+// https://www.spoj.com/problems/PRIME1/
+// PRIME1 - Prime Generator
+// File Creation Date: 2020-02-01
+// Author: Devanshu(https://github.com/Blackwatch1910)
+
+
 import java.util.*;
 import java.lang.*;
 
